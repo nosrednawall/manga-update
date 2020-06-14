@@ -1,0 +1,1 @@
+jq = sudo xbps-install -S jq
