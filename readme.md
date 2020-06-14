@@ -1,7 +1,7 @@
 # Disclaimer
 Isso é um protótipo de uma idéia de automatização de feeds por meio de web scraping com python, logo não prometo fazer ele funcionar na sua máquina.
 
-Obs.: Estou atualmente usando void-linux, logo todos os pacotes de SO estão baseados nele
+Obs.: Estou atualmente usando void-linux, e por consequência todos os pacotes de SO estão baseados nele.
 
 ### Dependencias:
 ```sh
@@ -22,7 +22,7 @@ sh manga-updates.sh -s
 Irá mostrar um retorno assim:
 ```
 [anderson@zoroark: MangaUpdates]$ sh manga-updates.sh -s
-############################################################################################ Mangá Update######################################################
+##############################Mangá Update######################################################
 Mangá: Mairimashita! Iruma-kun		Scan: Drope
 |------------------------------------------------------------------------------------------------|
 Volume:8 	 Capítulo:65 - O Prazer do Aprendizado 
